@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Virtual Keyboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Virtual Hand Keyboard</h1>
+    <div class="video-section">
+      <div class="video-wrapper">
+        <video id="webcam" autoplay playsinline muted></video>
+      </div>
+      <div class="video-wrapper">
+        <canvas id="output"></canvas>
+      </div>
+    </div>
+
+    <div id="typed-text-display" class="typed-text">Typed: </div>
+
+    <div class="footer-note">
+      <button id="news-btn">📢 Click here for a news</button>
+      <div id="chrome-note" class="footer-message">🚀 Chrome Extension Coming Soon!</div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
