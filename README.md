@@ -48,5 +48,4 @@ Harshil Gurjar
 
 📧 Email: hdgurjar2323@gmail.com
 
-
 🔗 LinkedIn: https://www.linkedin.com/in/harshil-gurjar23/
