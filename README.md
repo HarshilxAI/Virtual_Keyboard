@@ -22,7 +22,7 @@ Touchless typing using just your webcam and finger movement.
 ### 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** None (fully frontend-based)  
+- **Backend:** Python  
 - **Libraries & APIs:** MediaPipe Hands, Canvas API, Webcam JS access
 
 ---
@@ -41,6 +41,9 @@ Contributions are welcome. Feel free to open issues or pull requests to improve 
 
 ---
 
-### 🧾 Owned By
+### 🧾 Owner 
 
 Harshil Gurjar
+
+📧 Email: hdgurjar2323@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/harshil-gurjar23/
