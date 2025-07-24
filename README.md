@@ -1,6 +1,6 @@
-# Virtual Hand Gesture Keyboard
+# Virtual Hand Gesture Keyboard 
 
-A browser-based virtual keyboard that detects hand gestures to simulate key presses.  
+A browser based virtual keyboard that detects hand gestures to simulate key presses.  
 Touchless typing using just your webcam and finger movement.
 
 ---
