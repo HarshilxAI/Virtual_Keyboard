@@ -6,7 +6,7 @@ Touchless typing using just your webcam and finger movement.
 ---
 
 <a href="https://virtual-keyboard-denny.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" /> 
 </a>
 
 ---
